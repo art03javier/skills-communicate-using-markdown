@@ -20,4 +20,7 @@ function greet(name) {
 
 greet("John");
 
+- [ ] Write a JavaScript function to calculate the sum of an array.
+- [ ] Design a simple logo for my project.
+- [ ] Research and learn a new programming language feature.
 

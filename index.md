@@ -12,3 +12,12 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```javascript
+// Your JavaScript code goes here
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+}
+
+greet("John");
+
+
